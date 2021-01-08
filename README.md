@@ -1,2 +1,2 @@
 # Microeconomics-Project
-This is my first project as an Actuarial Science Student in Bandung Institute of Technology together with my team. We do Risk Analysis of Insurance Companies with a Microeconomic Approach
+This is my first project as an Actuarial Science Student in Bandung Institute of Technology together with my team. In this project, we do some task start from analyst the cause of the loss, set a new premium value, profit and loss simulation for both producers and consumers. After that, we do risk analysis to predict whether the company can survive for the long term or not.
